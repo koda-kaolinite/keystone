@@ -1,2 +1,76 @@
 @import "tailwindcss";
 @import "@nuxt/ui-pro";
+
+@theme {
+    --font-sora: 'Sora', sans-serif;
+    --font-inter: 'Inter', sans-serif;
+}
+
+:root {
+    --ui-primary: #19191a;
+    --ui-primary-foreground: #FFFFFF;
+    --ui-secondary: #F5F5DC;
+    --ui-secondary-foreground: #1F2937;
+    --ui-background: #FEFDF8;
+    --ui-foreground: #1F2937;
+    --ui-card: #FFFFFF;
+    --ui-card-foreground: #1F2937;
+    --ui-muted: #F3F4F6;
+    --ui-muted-foreground: #6B7280;
+    --ui-border: #E5E7EB;
+
+    /* Text */
+    --ui-text-dimmed: #8D949E;
+    --ui-text-muted: var(--ui-muted-foreground);
+    --ui-text-toned: #4A5568;
+    --ui-text: var(--ui-foreground);
+    --ui-text-highlighted: var(--ui-primary);
+    --ui-text-inverted: var(--ui-primary-foreground);
+
+    /* Background */
+    --ui-bg: var(--ui-background);
+    --ui-bg-muted: var(--ui-muted);
+    --ui-bg-elevated: #FBFBFA;
+    --ui-bg-accented: #F4F0F9;
+    --ui-bg-inverted: var(--ui-foreground);
+
+    /* Border */
+    --ui-border-muted: var(--ui-border);
+    --ui-border-accented: #DCDFE2;
+    --ui-border-inverted: var(--ui-foreground);
+}
+
+
+.dark {
+    --ui-primary: #FFFFFF;
+    --ui-primary-foreground: #838383;
+    --ui-secondary: #F5F5DC;
+    --ui-secondary-foreground: #1A1625;
+    --ui-background: #1A1625;
+    --ui-foreground: #F9FAFB;
+    --ui-card: #2D2438;
+    --ui-card-foreground: #F9FAFB;
+    --ui-muted: #2C283A;
+    --ui-muted-foreground: #D1D5DB;
+    --ui-border: #4B5563;
+
+    /* Text */
+    --ui-text-dimmed: #A1A1AA;
+    --ui-text-muted: var(--ui-muted-foreground);
+    --ui-text-toned: #E5E7EB;
+    --ui-text: var(--ui-foreground);
+    --ui-text-highlighted: var(--ui-primary);
+    --ui-text-inverted: var(--ui-background);
+
+    /* Background */
+    --ui-bg: var(--ui-background);
+    --ui-bg-muted: var(--ui-muted);
+    --ui-bg-elevated: #352A41;
+    --ui-bg-accented: #2F204D;
+    --ui-bg-inverted: var(--ui-foreground);
+
+    /* Border */
+    --ui-border-muted: var(--ui-border);
+    --ui-border-accented: #645E72;
+    --ui-border-inverted: var(--ui-foreground);
+}

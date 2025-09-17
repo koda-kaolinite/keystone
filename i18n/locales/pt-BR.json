@@ -1,0 +1,181 @@
+{
+  "welcome": "Seja Bem-vindo!",
+  "header": {
+    "title": "Nacional IEmpreendimentos",
+    "navigation": {
+      "rent": {
+        "label": "Alugar",
+        "child": {
+          "city1": {
+            "label": "Teresina"
+          },
+          "city2": {
+            "label": "Parnaíba"
+          },
+          "city3": {
+            "label": "Picos"
+          },
+          "city4": {
+            "label": "Piripiri"
+          },
+          "city5": {
+            "label": "Floriano"
+          },
+          "city6": {
+            "label": "Barras"
+          },
+          "city7": {
+            "label": "Altos"
+          },
+          "city8": {
+            "label": "União"
+          },
+          "city9": {
+            "label": "Campo Maior"
+          },
+          "city10": {
+            "label": "José de Freitas"
+          }
+        }
+      },
+      "buy": {
+        "label": "Comprar",
+        "child": {
+          "city1": {
+            "label": "Teresina"
+          },
+          "city2": {
+            "label": "Parnaíba"
+          },
+          "city3": {
+            "label": "Picos"
+          },
+          "city4": {
+            "label": "Piripiri"
+          },
+          "city5": {
+            "label": "Floriano"
+          },
+          "city6": {
+            "label": "Barras"
+          },
+          "city7": {
+            "label": "Altos"
+          },
+          "city8": {
+            "label": "União"
+          },
+          "city9": {
+            "label": "Campo Maior"
+          },
+          "city10": {
+            "label": "José de Freitas"
+          }
+        }
+      },
+      "listing": {
+        "label": "Anunciar",
+        "child": {
+          "rent": {
+            "label": "Anunciar para Alugar"
+          },
+          "sell": {
+            "label": "Anunciar para Vender"
+          }
+        }
+      },
+      "help": {
+        "label": "Ajuda",
+        "child": {
+          "customer-service": {
+            "label": "Atendimento"
+          },
+          "faq": {
+            "label": "Dúvidas Frequentes"
+          },
+          "about-us": {
+            "label": "Sobre Nós"
+          },
+          "security": {
+            "label": "Segurança"
+          },
+          "fraud-prevention": {
+            "label": "Prevenção a Fraudes"
+          }
+        }
+      }
+    }
+  },
+  "propertyCard": {
+    "bedrooms": "quartos",
+    "bathrooms": "banheiros",
+    "areaUnit": "m²",
+    "contactButton": "Entrar em Contato com a Agência"
+  },
+  "colorSwatch": {
+    "main": {
+      "primary": {
+        "name": "Primária",
+        "description": "Para CTAs principais"
+      },
+      "secondary": {
+        "name": "Secundária",
+        "description": "Para acentos e detalhes"
+      }
+    },
+    "system": {
+      "background": {
+        "name": "Fundo",
+        "description": "Cor de fundo principal"
+      },
+      "surface": {
+        "name": "Superfície",
+        "description": "Para cards e elementos"
+      },
+      "text": {
+        "name": "Texto",
+        "description": "Cor principal do texto"
+      }
+    }
+  },
+  "styleguide": {
+    "title": "Guia de Estilos",
+    "hero": {
+      "title": "Guia de Estilos",
+      "subtitle": "Plataforma Imobiliária",
+      "description": "Um sistema de design moderno, minimalista, amigável e sério para conectar proprietários, clientes e agências imobiliárias com confiança e simplicidade."
+    },
+    "typography": {
+      "title": "Tipografia",
+      "titles": {
+        "title": "Títulos - Sora",
+        "h1": "Título Principal",
+        "h2": "Título Secundário",
+        "h3": "Título Terciário",
+        "h4": "Subtítulo",
+        "h5": "Título Menor"
+      },
+      "body": {
+        "title": "Texto Corpo - Inter",
+        "lg": "Texto grande para introduções importantes",
+        "base": "Texto padrão para conteúdo principal e descrições",
+        "sm": "Texto pequeno para informações secundárias",
+        "xs": "Texto muito pequeno para metadados",
+        "bold": "Texto em negrito para destaque",
+        "muted": "Texto com opacidade para informações menos importantes"
+      }
+    },
+    "colors": {
+      "title": "Paleta de Cores",
+      "mainColors": {
+        "title": "Cores Principais"
+      },
+      "systemColors": {
+        "title": "Cores de Sistema"
+      }
+    },
+    "propertyCatalog": {
+      "title": "Catálogo de Propriedades"
+    }
+  }
+}

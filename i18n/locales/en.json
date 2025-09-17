@@ -1,0 +1,185 @@
+{
+  "welcome": "Welcome!",
+  "navigation": {
+    "home": "Home",
+    "about": "About"
+  },
+  "header": {
+    "title": "My Company",
+    "navigation": {
+      "rent": {
+        "label": "Rent",
+        "child": {
+          "city1": {
+            "label": "Teresina"
+          },
+          "city2": {
+            "label": "Parnaíba"
+          },
+          "city3": {
+            "label": "Picos"
+          },
+          "city4": {
+            "label": "Piripiri"
+          },
+          "city5": {
+            "label": "Floriano"
+          },
+          "city6": {
+            "label": "Barras"
+          },
+          "city7": {
+            "label": "Altos"
+          },
+          "city8": {
+            "label": "União"
+          },
+          "city9": {
+            "label": "Campo Maior"
+          },
+          "city10": {
+            "label": "José de Freitas"
+          }
+        }
+      },
+      "buy": {
+        "label": "Buy",
+        "child": {
+          "city1": {
+            "label": "Teresina"
+          },
+          "city2": {
+            "label": "Parnaíba"
+          },
+          "city3": {
+            "label": "Picos"
+          },
+          "city4": {
+            "label": "Piripiri"
+          },
+          "city5": {
+            "label": "Floriano"
+          },
+          "city6": {
+            "label": "Barras"
+          },
+          "city7": {
+            "label": "Altos"
+          },
+          "city8": {
+            "label": "União"
+          },
+          "city9": {
+            "label": "Campo Maior"
+          },
+          "city10": {
+            "label": "José de Freitas"
+          }
+        }
+      },
+      "listing": {
+        "label": "List your property",
+        "child": {
+          "rent": {
+            "label": "List for Rent"
+          },
+          "sell": {
+            "label": "List for Sale"
+          }
+        }
+      },
+      "help": {
+        "label": "Help",
+        "child": {
+          "customer-service": {
+            "label": "Customer Service"
+          },
+          "faq": {
+            "label": "FAQ"
+          },
+          "about-us": {
+            "label": "About Us"
+          },
+          "security": {
+            "label": "Security"
+          },
+          "fraud-prevention": {
+            "label": "Fraud Prevention"
+          }
+        }
+      }
+    }
+  },
+  "propertyCard": {
+    "bedrooms": "bedrooms",
+    "bathrooms": "bathrooms",
+    "areaUnit": "m²",
+    "contactButton": "Contact Agency"
+  },
+  "colorSwatch": {
+    "main": {
+      "primary": {
+        "name": "Primary",
+        "description": "For main CTAs"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "description": "For accents and details"
+      }
+    },
+    "system": {
+      "background": {
+        "name": "Background",
+        "description": "Main background color"
+      },
+      "surface": {
+        "name": "Surface",
+        "description": "For cards and elements"
+      },
+      "text": {
+        "name": "Text",
+        "description": "Main text color"
+      }
+    }
+  },
+  "styleguide": {
+    "title": "Styleguide",
+    "hero": {
+      "title": "Style Guide",
+      "subtitle": "Real Estate Platform",
+      "description": "A modern, minimalist, friendly, and serious design system to connect owners, clients, and real estate agencies with confidence and simplicity."
+    },
+    "typography": {
+      "title": "Typography",
+      "titles": {
+        "title": "Titles - Sora",
+        "h1": "Main Title",
+        "h2": "Secondary Title",
+        "h3": "Tertiary Title",
+        "h4": "Subtitle",
+        "h5": "Smaller Title"
+      },
+      "body": {
+        "title": "Body Text - Inter",
+        "lg": "Large text for important introductions",
+        "base": "Standard text for main content and descriptions",
+        "sm": "Small text for secondary information",
+        "xs": "Very small text for metadata",
+        "bold": "Bold text for emphasis",
+        "muted": "Text with opacity for less important information"
+      }
+    },
+    "colors": {
+      "title": "Color Palette",
+      "mainColors": {
+        "title": "Main Colors"
+      },
+      "systemColors": {
+        "title": "System Colors"
+      }
+    },
+    "propertyCatalog": {
+      "title": "Property Catalog"
+    }
+  }
+}
